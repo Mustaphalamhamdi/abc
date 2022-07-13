@@ -1,0 +1,35 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd --exit-child --transpile-only src/main.ts",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.3",
+    "@chakra-ui/react": "^2.2.3",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "axios": "^0.27.2",
+    "copy-to-clipboard": "^3.3.1",
+    "crypto-js": "^4.1.1",
+    "framer-motion": "^6.4.3",
+    "generate-password": "^1.7.0",
+    "generate-password-ts": "^1.6.3",
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.33.1",
+    "react-query": "^3.39.1",
+    "react-tooltip": "^4.2.21",
+    "zxcvbn": "^4.4.2"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "@types/node": "^18.0.3",
+    "typescript": "^4.7.4"
+  }
+}
