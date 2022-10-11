@@ -24,7 +24,7 @@
     "@typegoose/typegoose": "^9.10.1",
     "argon2": "^0.28.7",
     "crypto-js": "^4.1.1",
-    "fastify": "^4.2.0",
+    "fastify": "^4.8.1",
     "fastify-zod": "^1.0.2",
     "generate-password-ts": "^1.6.3",
     "lodash": "^4.17.21",
